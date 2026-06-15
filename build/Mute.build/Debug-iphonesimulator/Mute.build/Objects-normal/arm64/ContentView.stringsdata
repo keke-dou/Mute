@@ -1,0 +1,240 @@
+{
+  "source": "/Users/ray/Desktop/Mute/ContentView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Import Successful",
+        "location": {
+          "startingColumn": 16,
+          "startingLine": 90
+        }
+      },
+      {
+        "comment": "",
+        "key": "OK",
+        "location": {
+          "startingColumn": 20,
+          "startingLine": 91
+        }
+      },
+      {
+        "comment": "",
+        "key": "%@ has been added to My Imports!",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 93
+        }
+      },
+      {
+        "comment": "",
+        "key": "focusing",
+        "location": {
+          "startingColumn": 46,
+          "startingLine": 200
+        }
+      },
+      {
+        "comment": "",
+        "key": "tap to set time",
+        "location": {
+          "startingColumn": 59,
+          "startingLine": 200
+        }
+      },
+      {
+        "comment": "",
+        "key": "点击添加氛围音乐",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 241
+        }
+      },
+      {
+        "comment": "",
+        "key": "Playing...",
+        "location": {
+          "startingColumn": 42,
+          "startingLine": 234
+        }
+      },
+      {
+        "comment": "",
+        "key": "番茄钟",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 277
+        }
+      },
+      {
+        "comment": "",
+        "key": "音乐",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 299
+        }
+      },
+      {
+        "comment": "",
+        "key": "Set Duration",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 335
+        }
+      },
+      {
+        "comment": "",
+        "key": "Focus Duration",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 315
+        }
+      },
+      {
+        "comment": "",
+        "key": "Minutes",
+        "location": {
+          "startingColumn": 24,
+          "startingLine": 320
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld min",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 325
+        }
+      },
+      {
+        "comment": "",
+        "key": "Done",
+        "location": {
+          "startingColumn": 28,
+          "startingLine": 339
+        }
+      },
+      {
+        "comment": "",
+        "key": "Music Library",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 359
+        }
+      },
+      {
+        "comment": "",
+        "key": "Done",
+        "location": {
+          "startingColumn": 28,
+          "startingLine": 363
+        }
+      },
+      {
+        "comment": "",
+        "key": "(%lld首)",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 400
+        }
+      },
+      {
+        "comment": "",
+        "key": "Playing",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 407
+        }
+      },
+      {
+        "comment": "",
+        "key": "No imported songs",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 492
+        }
+      },
+      {
+        "comment": "",
+        "key": "My Imports",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 448
+        }
+      },
+      {
+        "comment": "",
+        "key": "Done",
+        "location": {
+          "startingColumn": 45,
+          "startingLine": 458
+        }
+      },
+      {
+        "comment": "",
+        "key": "Edit",
+        "location": {
+          "startingColumn": 54,
+          "startingLine": 458
+        }
+      },
+      {
+        "comment": "",
+        "key": "From Files",
+        "location": {
+          "startingColumn": 31,
+          "startingLine": 468
+        }
+      },
+      {
+        "comment": "",
+        "key": "From Video",
+        "location": {
+          "startingColumn": 31,
+          "startingLine": 474
+        }
+      },
+      {
+        "comment": "",
+        "key": "Add",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 480
+        }
+      },
+      {
+        "comment": "",
+        "key": "Playing",
+        "location": {
+          "startingColumn": 38,
+          "startingLine": 518
+        }
+      },
+      {
+        "comment": "",
+        "key": "Converting video to audio...",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 678
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld%%",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 687
+        }
+      },
+      {
+        "comment": "",
+        "key": "Cancel",
+        "location": {
+          "startingColumn": 24,
+          "startingLine": 692
+        }
+      }
+    ]
+  },
+  "version": 1
+}
